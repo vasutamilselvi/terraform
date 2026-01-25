@@ -1,0 +1,7 @@
+vpc_name = "hi_i_am_vpc"
+public_subnet_1_cidr = "10.0.10.0/24"
+public_subnet_1_az = "us-east-1a"
+public_subnet_2_cidr = "10.0.20.0/24"
+public_subnet_2_az = "us-east-1b"
+private_subnet_1_az = "us-east-1a"
+private_subnet_1_cidr = "10.0.30.0/24"

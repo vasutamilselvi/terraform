@@ -6,7 +6,7 @@ terraform {
     }
   }
   backend "s3" {
-  bucket = "my-unique-bucket-name-abarasan-1234567890"
+  bucket = "my-unique-bucket-name-abarasan-12345678901"
   key    = "global/s3/terraform.tfstate"
   region = "us-east-1"
 }
